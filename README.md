@@ -1,6 +1,6 @@
 # Tinder Scarlet Lifecycle Android
 
-This repository is an edited library from Scarlet's offical repository while waiting for my [Pull request](https://github.com/Tinder/Scarlet/pull/71) to be approved.
+This repository is an edited library from Scarlet's official repository while waiting for my [Pull request](https://github.com/Tinder/Scarlet/pull/71) to be approved.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
