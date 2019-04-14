@@ -1,0 +1,1 @@
+include ':app', ':scarlet-lifecycle-android'
